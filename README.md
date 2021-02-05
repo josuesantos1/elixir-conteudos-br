@@ -6,4 +6,5 @@ Conteúdo sobre elixir em português
 
 ### https://youtube.com/user/thgsr
 
-### 
+### https://youtube.com/c/douglascorrea 
+
